@@ -1,0 +1,18 @@
+https://drive.google.com/drive/folders/1w7fVaTTXT39M_QYLzuZ8ClFTXItC3TKm?usp=sharing
+
+Model Training
+
+📊 Evaluating all models on validation set...
+=================================================================
+  ANN     Acc=0.2047  Prec=0.0974  Rec=0.2047  F1=0.1162
+  CNN     Acc=0.2767  Prec=0.2901  Rec=0.2767  F1=0.2642
+  RNN     Acc=0.1897  Prec=0.0671  Rec=0.1897  F1=0.0822
+  LSTM    Acc=0.2093  Prec=0.2045  Rec=0.2093  F1=0.1445
+=================================================================
+
+🏆 Best Model: CNN  (F1-Score = 0.2642)
+Model  Accuracy  Precision   Recall  F1-Score
+  ANN  0.204709   0.097356 0.204709  0.116226
+  CNN  0.276651   0.290104 0.276651  0.264247
+  RNN  0.189666   0.067090 0.189666  0.082199
+ LSTM  0.209287   0.204490 0.209287  0.144471
