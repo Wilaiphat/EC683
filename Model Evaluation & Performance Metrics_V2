@@ -1,7 +1,3 @@
-https://drive.google.com/drive/folders/1w7fVaTTXT39M_QYLzuZ8ClFTXItC3TKm?usp=sharing
-
-Model Training
-
 📊 Evaluating all models on validation set...
 =================================================================
   ANN     Acc=0.2047  Prec=0.0974  Rec=0.2047  F1=0.1162
